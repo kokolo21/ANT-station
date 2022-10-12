@@ -2599,4 +2599,11 @@
 #include "goon\code\datums\browserOutput.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
+#include "modular_ants\code\game\objects\structures\ants_structures.dm"
+#include "modular_ants\code\modules\mob\living\carbon\ants\ant.dm"
+#include "modular_ants\code\modules\mob\living\carbon\ants\ant_queen.dm"
+#include "modular_ants\code\modules\mob\living\carbon\ants\humanoid\drone.dm"
+#include "modular_ants\code\modules\mob\living\carbon\ants\humanoid\update_icons.dm"
+#include "modular_ants\code\modules\mob\living\carbon\ants\larva\ant_larva.dm"
+#include "modular_ants\code\modules\mob\living\carbon\ants\larva\powers.dm"
 // END_INCLUDE
